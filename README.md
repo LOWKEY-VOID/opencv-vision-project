@@ -1,5 +1,5 @@
 # OpenCV Vision Applications
-> 5 real-time computer vision projects | Python + OpenCV | 20+ FPS
+> 5 real-time computer vision projects | Python + OpenCV | 20+ fps
 
 ---
 
